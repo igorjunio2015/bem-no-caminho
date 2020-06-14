@@ -1,8 +1,9 @@
 # Equipe 317: B.E.M - Boleia em Movimento
 
-Repositório com o intuito de apresentar o aplicativo Bem no Caminho, proposto para apresentar no Hackthon da CCR 2020. O objetivo principal desse aplicativo é auxiliar os motoristas, reunindo em uma única aplicação, diversas funcionalidades, como:
+Repositório com o intuito de apresentar o aplicativo Bem no Caminho, proposto no Hackthon da CCR 2020. O objetivo principal desse aplicativo é auxiliar os motoristas, reunindo em uma única aplicação, diversas funcionalidades, como:
 <ul>
   <li>Rotas de viagem</li>
+  <li>Cuidar da saúde</li>
   <li>Sugestões de paradas</li>
   <li>Botão de emergência</li>
   <li>Gamificação</li>
@@ -19,11 +20,16 @@ Esta é a Home do aplicativo.
 <img src='telas/Home.png' width="200" height="400" />
 <br/>
 Na parte superior temos um atalho de acesso ao perfil.
-Ao centro, focados no perfil de usuário, criamos botões grandes e claros, para fácil acesso a todas as funções do aplicativo.
+Ao centro, focados no perfil de usuário, criamos botões grandes e claros, para fácil acesso a todas as funções do aplicativo. 
+
+Perfil do usuário
+
+
+Aqui temos o <a href='https://xd.adobe.com/view/04a485da-df19-45f5-55e3-2395bbd7fccc-7295/grid'>link</a> do real protótipo do aplicativo.
 
 ## Sobre o Projeto
 
-Foi desenvolvido para apresentação na Hackathon da CCR 2020.
+Desenvolvido para apresentar no Hackathon da CCR 2020.
 <br/>
 Equipe B.E.M. - Boleia em Movimento:
 <ul>
