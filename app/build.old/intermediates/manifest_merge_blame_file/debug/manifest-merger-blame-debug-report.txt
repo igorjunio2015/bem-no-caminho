@@ -1,0 +1,154 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.bemcaminho"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml
+10    <!--
+11         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+12         Google Maps Android API v2, but you must specify either coarse or fine
+13         location permissions for the "MyLocation" functionality.
+14    -->
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:10:5-81
+15-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:10:22-78
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:11:5-79
+16-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:11:22-76
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:12:5-67
+17-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:12:22-64
+18    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+18-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:13:5-75
+18-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:13:22-72
+19    <uses-permission android:name="com.comparto.piso.permission.MAPS_RECEIVE" />
+19-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:14:5-81
+19-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:14:22-78
+20    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+20-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:15:5-98
+20-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:15:22-95
+21    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+21-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:16:5-81
+21-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:16:22-78
+22    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+22-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:17:5-79
+22-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:17:22-76
+23
+24    <uses-feature
+24-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\igorj\.gradle\caches\transforms-2\files-2.1\7345f62f6933bfbfe70b0b6c644df5f1\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+25        android:glEsVersion="0x00020000"
+25-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\igorj\.gradle\caches\transforms-2\files-2.1\7345f62f6933bfbfe70b0b6c644df5f1\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+26        android:required="true" />
+26-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\igorj\.gradle\caches\transforms-2\files-2.1\7345f62f6933bfbfe70b0b6c644df5f1\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+27
+28    <application
+28-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:19:5-57:19
+29        android:allowBackup="true"
+29-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:20:9-35
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.3.0] C:\Users\igorj\.gradle\caches\transforms-2\files-2.1\8106c9afeb27cc0c50f85995740f877c\core-1.3.0\AndroidManifest.xml:24:18-86
+31        android:debuggable="true"
+32        android:icon="@drawable/logo"
+32-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:21:9-38
+33        android:label="@string/app_name"
+33-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:22:9-41
+34        android:roundIcon="@mipmap/ic_launcher_round"
+34-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:23:9-54
+35        android:supportsRtl="true"
+35-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:24:9-35
+36        android:testOnly="true"
+37        android:theme="@style/AppTheme" >
+37-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:25:9-40
+38        <activity android:name="com.example.bemcaminho.views.InterfaceUser" />
+38-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:26:9-66
+38-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:26:19-54
+39        <!--
+40             The API key for Google Maps-based APIs is defined as a string resource.
+41             (See the file "res/values/google_maps_api.xml").
+42             Note that the API key is linked to the encryption key used to sign the APK.
+43             You need a different API key for each encryption key, including the release key that is used to
+44             sign the APK for publishing.
+45             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+46        -->
+47        <meta-data
+47-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:35:9-37:55
+48            android:name="com.google.android.geo.API_KEY"
+48-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:36:13-58
+49            android:value="@string/google_maps_key" />
+49-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:37:13-52
+50
+51        <activity
+51-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:39:9-41:72
+52            android:name="com.example.bemcaminho.views.MenuItem1Router"
+52-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:40:13-50
+53            android:label="@string/title_activity_menu_item1_router" />
+53-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:41:13-69
+54        <activity android:name="com.example.bemcaminho.views.MenuItem5" />
+54-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:42:9-53
+54-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:42:19-50
+55        <activity android:name="com.example.bemcaminho.views.MenuItem4" />
+55-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:43:9-53
+55-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:43:19-50
+56        <activity android:name="com.example.bemcaminho.views.MenuItem3" />
+56-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:44:9-53
+56-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:44:19-50
+57        <activity android:name="com.example.bemcaminho.views.MenuItem2" />
+57-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:45:9-53
+57-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:45:19-50
+58        <activity android:name="com.example.bemcaminho.views.MenuItem1" />
+58-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:46:9-53
+58-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:46:19-50
+59        <activity android:name="com.example.bemcaminho.HomePageActivity" />
+59-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:47:9-54
+59-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:47:19-51
+60        <activity android:name="com.example.bemcaminho.LoginRewardActivity" />
+60-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:48:9-57
+60-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:48:19-54
+61        <activity android:name="com.example.bemcaminho.LoginCodeActivity" />
+61-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:49:9-55
+61-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:49:19-52
+62        <activity android:name="com.example.bemcaminho.MainActivity" >
+62-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:50:9-56:20
+62-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:50:19-47
+63            <intent-filter>
+63-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:51:13-55:29
+64                <action android:name="android.intent.action.MAIN" />
+64-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:52:17-69
+64-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:52:25-66
+65
+66                <category android:name="android.intent.category.LAUNCHER" />
+66-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:54:17-77
+66-->C:\Users\igorj\AndroidStudioProjects\bemcaminho\app\src\main\AndroidManifest.xml:54:27-74
+67            </intent-filter>
+68        </activity>
+69        <!-- Needs to be explicitly declared on P+ -->
+70        <uses-library
+70-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\igorj\.gradle\caches\transforms-2\files-2.1\7345f62f6933bfbfe70b0b6c644df5f1\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+71            android:name="org.apache.http.legacy"
+71-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\igorj\.gradle\caches\transforms-2\files-2.1\7345f62f6933bfbfe70b0b6c644df5f1\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+72            android:required="false" />
+72-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\igorj\.gradle\caches\transforms-2\files-2.1\7345f62f6933bfbfe70b0b6c644df5f1\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+73
+74        <activity
+74-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\igorj\.gradle\caches\transforms-2\files-2.1\b1beed74396dcf2ff7139271bbe8d64c\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+75            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+75-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\igorj\.gradle\caches\transforms-2\files-2.1\b1beed74396dcf2ff7139271bbe8d64c\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+76            android:exported="false"
+76-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\igorj\.gradle\caches\transforms-2\files-2.1\b1beed74396dcf2ff7139271bbe8d64c\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+77            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+77-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\igorj\.gradle\caches\transforms-2\files-2.1\b1beed74396dcf2ff7139271bbe8d64c\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+78
+79        <meta-data
+79-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\igorj\.gradle\caches\transforms-2\files-2.1\93be7174b7be54dada154bbbe746f6ab\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+80            android:name="com.google.android.gms.version"
+80-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\igorj\.gradle\caches\transforms-2\files-2.1\93be7174b7be54dada154bbbe746f6ab\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+81            android:value="@integer/google_play_services_version" />
+81-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\igorj\.gradle\caches\transforms-2\files-2.1\93be7174b7be54dada154bbbe746f6ab\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+82    </application>
+83
+84</manifest>
