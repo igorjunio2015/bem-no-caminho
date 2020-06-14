@@ -1,8 +1,9 @@
 # Equipe 317: B.E.M - Boleia em Movimento
 
-Repositório com o intuito de apresentar o aplicativo Bem no Caminho, proposto para apresentar no Hackthon da CCR 2020. O objetivo principal desse aplicativo é auxiliar os motoristas, reunindo em uma única aplicação, diversas funcionalidades, como:
+Repositório com o intuito de apresentar o aplicativo Bem no Caminho, proposto no Hackthon da CCR 2020. O objetivo principal desse aplicativo é auxiliar os motoristas, reunindo em uma única aplicação, diversas funcionalidades, como:
 <ul>
   <li>Rotas de viagem</li>
+  <li>Cuidar da saúde</li>
   <li>Sugestões de paradas</li>
   <li>Botão de emergência</li>
   <li>Gamificação</li>
@@ -14,16 +15,57 @@ E para auxiliar esse aplicativo na parte de reconhecimento dos exercícios, util
 ## O Aplicativo - Bem no Caminho
 <img src='telas/Splash Screen.png' width="200" height="400" />
 <br/>
+
+Link para baixar e testar o APK: https://drive.google.com/file/d/1a6gjVswhdPzDmMy94sbmHZ6Xyh5AvykM/view?usp=sharing
+
 Esta é a Home do aplicativo.
 <br/>
 <img src='telas/Home.png' width="200" height="400" />
 <br/>
 Na parte superior temos um atalho de acesso ao perfil.
-Ao centro, focados no perfil de usuário, criamos botões grandes e claros, para fácil acesso a todas as funções do aplicativo.
+Ao centro, focados no perfil de usuário, criamos botões grandes e claros, para fácil acesso a todas as funções do aplicativo. 
+
+Perfil do usuário
+<br/>
+<img src='telas/Meu Perfil.png' width="200" height="400" />
+<br/>
+
+Planejamento da viagem
+<br/>
+<img src='telas/Planejar Viagem Detalhes.png' width="200" height="400" />
+<br/>
+
+Detalhes do QUADRADÃO
+<br/>
+<img src='telas/Detalhe Quadradões Unico.png' width="200" height="400" />
+<br/>
+
+Ganhar pontos
+<br/>
+<img src='telas/Ganhar Pontos – 3.png' width="200" height="400" />
+<br/>
+
+Exercícios
+<br/>
+<img src='telas/Exercício.png' width="200" height="400" />
+<br/>
+
+Emergência
+<br/>
+<img src='telas/Emergencia.png' width="200" height="400" />
+<br/>
+
+Matando a saudade
+<br/>
+<img src='telas/Matar a Saudade.png' width="200" height="400" />
+<br/>
+
+
+Aqui temos o <a href='https://xd.adobe.com/view/04a485da-df19-45f5-55e3-2395bbd7fccc-7295/grid'>link</a> do real protótipo do aplicativo.
 
 ## Sobre o Projeto
 
-Foi desenvolvido para apresentação na Hackathon da CCR 2020.
+Desenvolvido para apresentar no Hackathon da CCR 2020.
 <br/>
 Equipe B.E.M. - Boleia em Movimento:
 <ul>
