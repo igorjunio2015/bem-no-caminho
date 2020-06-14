@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bem no Caminho</string>
+    <string name="welcome">Seja bem-vindo!</string>
+    <string name="welcome_intro">Insira seu número de telefone para realizar o login:</string>
+    <string name="sign">Avançar</string>
+    <string name="code_text">Insira o código</string>
+    <string name="code_info">Enviamos um SMS para confirmar o seu número de telefone</string>
+    <string name="daily_text">Este é o seu primeiro acesso.</string>
+    <string name="daily_reward">Você acabou de ganhar</string>
+    <string name="home_welcome">Estamos aqui para cuidar de você.</string>
+    <string name="home_info">Utilize os atalhos abaixo para uma melhor navegação:</string>
+    <string name="menu_1">Planejar minha viagem</string>
+    <string name="menu_2">Locais Próximos</string>
+    <string name="menu_3">Desbloquear Acesso</string>
+    <string name="menu_4">Ganhar Pontos</string>
+    <string name="menu_5">Emergência</string>
+    <string name="home1_text">Vamos planejar a sua viagem:</string>
+    <string name="home1_input_1">Sua localização</string>
+    <string name="home1_input_2">Qual seu destino?</string>
+    <string name="title_activity_menu_item1_router">Map</string>
+</resources>
