@@ -15,6 +15,9 @@ E para auxiliar esse aplicativo na parte de reconhecimento dos exercícios, util
 ## O Aplicativo - Bem no Caminho
 <img src='telas/Splash Screen.png' width="200" height="400" />
 <br/>
+
+Link para baixar e testar o APK: https://drive.google.com/file/d/1pa9HvZBjh4t1v7Z4uTUp0s7WBxT8Tdxo/view?usp=sharing
+
 Esta é a Home do aplicativo.
 <br/>
 <img src='telas/Home.png' width="200" height="400" />
