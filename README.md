@@ -1,6 +1,6 @@
 # Equipe 317: Bem no Caminho
 
-<img src='telas/Splash Screen.png'/>
+<img src='telas/Splash Screen.png'/ width="200" height="400">
 
 Repositório com o intuito de apresentar o aplicativo Bem no Caminho, proposto para apresentar no Hackthon da CCR 2020. O objetivo principal desse aplicativo é auxiliar os motoristas, reunindo em uma única aplicação, diversas funcionalidades, como:
 <ul>
@@ -15,7 +15,7 @@ E para auxiliar esse aplicativo na parte de reconhecimento dos exercícios, util
 
 ## O Aplicativo
 Esta é a Home do aplicativo.
-<img src='telas/Home.png'/>
+<img src='telas/Home.png' width="200" height="400"/>
 Na parte superior temos um atalho de acesso ao perfil.
 Ao centro, focados no perfil de usuário, criamos botões grandes e claros, para fácil acesso a todas as funções do aplicativo.
 
