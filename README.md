@@ -35,7 +35,7 @@ Desenvolvido para apresentar no Hackathon da CCR 2020.
 Equipe B.E.M. - Boleia em Movimento:
 <ul>
   <li><a href='https://www.linkedin.com/in/andre-vinicius-mendes-barros-800410195/'> André Vinícius</a></li>
-  <li><a href='https://www.linkedin.com/in/cristiane-f-silva-florin-ba516a34/'> Cristiane Florin</a></li>
+  <li><a href='https://www.linkedin.com/in/cristiane-silva-986286156/'> Cristiane Silva</a></li>
   <li><a href='https://www.linkedin.com/in/dieimerson-vieira/'> Dieimerson Vieira</a></li>
   <li><a href='https://www.linkedin.com/in/f%C3%A1bio-s-cardoso/'> Fábio Cardoso</a></li>
   <li><a href='https://www.linkedin.com/in/igorjuniomelo/'> Igor Junio</a></li>
